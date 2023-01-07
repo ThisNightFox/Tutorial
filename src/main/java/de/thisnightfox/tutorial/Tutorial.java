@@ -14,6 +14,6 @@ public final class Tutorial extends JavaPlugin {
     @Override
     public void onDisable() {
         getLogger().info("Plugin deaktiviert");
-        System.out.println("Say goodby");
+        System.out.println("Say goodbye");
     }
 }
