@@ -7,6 +7,7 @@ public final class Tutorial extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("Plugin aktiviert");
+        System.out.println("say Hello");
 
     }
 
