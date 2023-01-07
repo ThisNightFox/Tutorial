@@ -1,0 +1,8 @@
+name: Tutorial
+version: '${project.version}'
+main: de.thisnightfox.tutorial.Tutorial
+api-version: 1.19
+prefix: Tutorial
+authors: [ ThisNightFox ]
+description: Learning Java
+website: https://alpha-fox.eu
